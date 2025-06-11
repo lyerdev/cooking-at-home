@@ -1,0 +1,26 @@
+"recipes": [
+  {
+    "id": 1,
+    "title": "Breakfast Hash",
+    "ingredients": ["Hashbrown", "Eggs", "Powdered protein"],
+    "steps": "Pan-fry hashbrown, cook eggs, mix protein powder with almond milk."
+  },
+  {
+    "id": 2,
+    "title": "Crispy Chicken Wrap",
+    "ingredients": ["Chicken", "Tortilla", "Lettuce", "Sauce"],
+    "steps": "Air fry chicken, layer wrap with ingredients, fold and serve."
+  },
+  {
+    "id": 3,
+    "title": "Baked Salmon",
+    "ingredients": ["Salmon", "Lemon", "Garlic", "Butter"],
+    "steps": "Season salmon, bake at 400°F for 20 minutes."
+  },
+  {
+    "id": 4,
+    "title": "Vanilla Cream Dessert",
+    "ingredients": ["Heavy whipping cream", "Vanilla extract", "Sugar"],
+    "steps": "Whip cream with vanilla and sugar until fluffy. Chill and serve."
+  }
+]
